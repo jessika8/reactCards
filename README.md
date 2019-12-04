@@ -1,10 +1,10 @@
 # reactCards
-Simple project that displays four cards with different information
+A simple project that displays four cards with different information
 
 ## Motivation
-Learning how to use react. A simple introduction how to create a component and make it display different information
+Learning how to use react. A simple introduction of how to create a component and make it display different information
 
-## What have i achieved so far?
+## What have I achieved so far?
 * Four cards are displaying different picture and information
 
 
@@ -12,7 +12,6 @@ Learning how to use react. A simple introduction how to create a component and m
 * Create more cards
 * Add more information
 * Make it as a full-stack project (cards could display information from different APIs)
-
 
 ## Tech/framework used
 * React v16.11.0
