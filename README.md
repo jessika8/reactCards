@@ -2,7 +2,7 @@
 A simple project that displays four cards with different information
 
 ## Motivation
-Learning how to use react. A simple introduction of how to create a component and make it display different information
+I was learning how to work with react. A simple introduction of how to create a component and make it display different information
 
 ## What have I achieved so far?
 * Four cards are displaying different picture and information
